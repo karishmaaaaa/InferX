@@ -1,0 +1,1 @@
+"""InferX application package."""
